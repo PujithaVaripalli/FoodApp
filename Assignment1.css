@@ -1,0 +1,45 @@
+html {
+    scroll-behavior: smooth;
+}
+
+ #ul_list li {
+    color: rgb(0, 0, 0);
+    display:inline-block;
+    padding:20px;
+    
+}
+#ul_list li:hover {
+    background-color: aliceblue;
+    
+  }
+
+ 
+ #ul_list {
+    background-color:gray;
+
+}  
+
+h2 {
+    color: black;
+}
+ a {
+    text-decoration: none;
+}
+ body {
+    background-color: lightgray;
+}
+ ul  li {
+    color:blueviolet;
+}
+img {
+    display:block;
+    margin:50px;
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
+div {
+    text-align: center;
+    color:black;
+
+   }
